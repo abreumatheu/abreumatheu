@@ -1,7 +1,7 @@
 ### Olá, eu sou o Matheus Abreu 👋
 
 - 🔭 Em constante evolução
-- 🌱 Estudando Kotlin
+- 🌱 Dev Kotlin e Java
 - 📫 Contate-me atraves do email: matheus-abreu10@hotmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abreumatheu&show_icons=true&theme=dark)
