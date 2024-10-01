@@ -1,7 +1,7 @@
 ### Welcome to my profile!
 
 
-<p>I ❤️ solve great challenges using tech. <br><br> Full stack java developer in development </strong>.</p>&nbsp;
+<p>I ❤️ solve great challenges using tech. <br><br> Full stack java developer  </strong>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=abreumatheu&theme=radical&mode=weekly" />
